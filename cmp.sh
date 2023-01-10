@@ -1,0 +1,1 @@
+g++ main.cpp GameObject.cpp Tile.cpp Building.cpp TempusImperium.cpp UiElements.cpp Pool.cpp  Grid.cpp RoadCluster.cpp -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system -lpthread

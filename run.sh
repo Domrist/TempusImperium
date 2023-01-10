@@ -1,0 +1,2 @@
+./cmp.sh
+./sfml-app
